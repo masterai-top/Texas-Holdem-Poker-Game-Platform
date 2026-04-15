@@ -1,5 +1,8 @@
-# 🃏 德州扑克完整运营级源码 | Texas Hold'em Poker Complete Source Code|德州扑克源码 | 德州撲克源碼  
+# 🃏 Texas Hold’em Poker Game Platform|德州扑克完整运营级源码 | |德州扑克源码 |德州扑克游戏平台 |  德州撲克源碼  
 
+
+🔥 Multiplayer Poker System | 多人德州扑克系统  
+👉 Game Server + Lobby + Club + Tournament  
 > **线上稳定运营多年 | 俱乐部+联盟+私人局 | 10+种玩法 | 刚停服，全套源码可售**
 💡 Build your own poker platform in minutes  
 💡 快速搭建属于你的德州扑克平台  
@@ -15,7 +18,10 @@
 [![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
 [![Platform](https://img.shields.io/badge/客户端-Unity%20iOS%2FAndroid-green)]()
 [![Backend](https://img.shields.io/badge/服务端-C%2B%2B-red)]()
+## 🧠 Project Overview
 
+This is a multiplayer Texas Hold’em poker game platform.  
+本项目是一套多人德州扑克游戏平台系统。
 ---
 
 ## 🚀 Why Choose This Project | 为什么选择 | 為什麼選擇
