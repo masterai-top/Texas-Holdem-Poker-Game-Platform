@@ -11,8 +11,6 @@
 🔥 Online Multiplayer System  
 🔥 Club + Agent System  
 🔥 Real-Time Gameplay  
-
-👉 🚀 Demo Available  
 👉 📩 Contact for Full Version  
 
 [![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
