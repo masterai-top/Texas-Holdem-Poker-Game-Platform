@@ -11,7 +11,7 @@
 🔥 Online Multiplayer System  
 🔥 Club + Agent System  
 🔥 Real-Time Gameplay  
-👉 📩 Contact for Full Version  
+
 
 [![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
 [![Platform](https://img.shields.io/badge/客户端-Unity%20iOS%2FAndroid-green)]()
@@ -84,20 +84,13 @@ This is a multiplayer Texas Hold’em poker game platform.
 - **服务端**：C++ - 高性能稳定运行
 - **数据库**：MySQL + Redis
 
-## 📦 交付内容
 
-- 完整服务端源码 (C++)
-- 完整客户端源码 (Unity)
-- 数据库脚本
-- 部署文档
-- 美术资源包
-
-## 💰 获取完整源码
+## 💰 沟通与交流
 
 📱 **Telegram：@xuzongbin001**  
 📧 **Email：masterai918@gmail.com**
 
-👉 **联系我获取演示视频 + 详细报价**
+
 
 ## 🎮 Demo | 演示 | 演示
 
