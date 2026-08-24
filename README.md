@@ -3,7 +3,7 @@
 
 🔥 Multiplayer Poker System | 多人德州扑克系统 ！ 
 👉 Game Server + Lobby + Club + Tournament  
-> **线上稳定运营多年 | 俱乐部+联盟+私人局 | 10+种玩法 | 刚停服，全套源码可售**
+> **线上稳定运营多年 | 俱乐部+联盟+私人局 | 10+种玩法 | **
 💡 Build your own poker platform in minutes  
 💡 快速搭建属于你的德州扑克平台  
 💡 快速建立自己的德州撲克系統  
