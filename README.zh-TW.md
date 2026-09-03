@@ -37,32 +37,9 @@ This is a multiplayer Texas Hold’em poker game platform.
 ---
 
 
-## 🚀 Why Choose This Project | 為什麼選擇 | 為什麼選擇
+## 🚀 Why Choose This Project | 為什麼選擇
 
 
-### 🇺🇸 English
-
-- Complete Texas Holdem poker system
-
-- Multiplayer real-time gameplay
-
-- Club + agent system included
-
-- Ready for deployment & customization
-
-
-### 🇨🇳 簡體中文
-
-- 完整德州撲克系統
-
-- 支援多人即時對戰
-
-- 內建俱樂部與代理商體系
-
-- 可直接部署或二次開發
-
-
-### 🇹🇼 繁體中文
 
 - 完整德州撲克系統
 
